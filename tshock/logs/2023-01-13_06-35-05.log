@@ -1,0 +1,58 @@
+2023-01-13 06:35:05 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2023-01-13 06:35:05 - TShock: INFO: TShock 5.1.3.0 (Thank you, everyone, for your support of TShock all these years! <3) now running.
+2023-01-13 06:35:05 - TShock: INFO: AutoSave Enabled
+2023-01-13 06:35:05 - TShock: INFO: Backups Enabled
+2023-01-13 06:35:05 - TShock: INFO: Welcome to TShock for Terraria!
+2023-01-13 06:35:05 - TShock: INFO: TShock comes with no warranty & is free software.
+2023-01-13 06:35:05 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2023-01-13 06:35:36 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2023-01-13 06:35:36 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2023-01-13 06:35:36 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2023-01-13 06:35:42 - TShock: INFO: zhidomasson (5.58.144.73) from 'guest' group joined. (1/8)
+2023-01-13 06:35:42 - Utils: INFO: Broadcast: zhidomasson has joined.
+2023-01-13 06:36:02 - Utils: INFO: zhidomasson executed (args omitted): /register.
+2023-01-13 06:36:17 - Utils: INFO: zhidomasson executed (args omitted): /register.
+2023-01-13 06:36:17 - Commands: INFO: zhidomasson registered an account: "zhidomasson".
+2023-01-13 06:37:02 - Utils: INFO: zhidomasson executed (args omitted): /login.
+2023-01-13 06:37:02 - Commands: INFO: zhidomasson authenticated successfully as user: zhidomasson.
+2023-01-13 06:37:22 - Utils: INFO: Broadcast: zhidomasson has left.
+2023-01-13 06:37:22 - TShock: INFO: zhidomasson disconnected.
+2023-01-13 06:37:22 - Utils: INFO: Broadcast: Saving world...
+2023-01-13 06:37:24 - Utils: INFO: Broadcast: World saved.
+2023-01-13 06:37:24 - SaveManager: INFO: World saved at (C:\Users\Yehen\Documents\My Games\Terraria\Worlds\UEBKI.wld)
+2023-01-13 06:37:27 - GetDataHandlers: INFO: zhidomasson authenticated successfully as user zhidomasson.
+2023-01-13 06:37:28 - TShock: INFO: zhidomasson (5.58.144.73) from 'default' group joined. (1/8)
+2023-01-13 06:37:28 - Utils: INFO: Broadcast: zhidomasson has joined.
+2023-01-13 06:37:34 - Utils: INFO: zhidomasson executed (args omitted): /login.
+2023-01-13 06:37:45 - Utils: INFO: zhidomasson executed (args omitted): /login.
+2023-01-13 06:37:54 - Utils: INFO: zhidomasson executed: /setup 0.
+2023-01-13 06:37:54 - TextLog: WARNING: 5.58.144.73 attempted to use the initial setup system even though it's disabled.
+2023-01-13 06:38:16 - Utils: INFO: zhidomasson executed: /setup 0.
+2023-01-13 06:38:16 - TextLog: WARNING: 5.58.144.73 attempted to use the initial setup system even though it's disabled.
+2023-01-13 06:38:59 - Utils: INFO: zhidomasson executed: /setup 0.
+2023-01-13 06:38:59 - TextLog: WARNING: 5.58.144.73 attempted to use the initial setup system even though it's disabled.
+2023-01-13 06:40:44 - Utils: INFO: zhidomasson executed: /tp.
+2023-01-13 06:40:56 - Utils: INFO: zhidomasson executed: /tp zhidomasson.
+2023-01-13 06:41:19 - Utils: INFO: Broadcast: zhidomasson: stop
+2023-01-13 06:41:23 - Utils: INFO: zhidomasson tried to execute /stop.
+2023-01-13 06:45:05 - Utils: INFO: Broadcast: Saving world...
+2023-01-13 06:45:07 - Utils: INFO: Broadcast: World saved.
+2023-01-13 06:45:07 - SaveManager: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T04.45.05Z.bak)
+2023-01-13 06:45:07 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T04.45.05Z.bak).
+2023-01-13 06:45:47 - Utils: INFO: Broadcast: Saving world...
+2023-01-13 06:47:49 - Utils: INFO: Server executed (args omitted): /user.
+2023-01-13 06:47:56 - Utils: INFO: Server executed (args omitted): /user.
+2023-01-13 06:49:05 - Utils: INFO: Server executed (args omitted): /user.
+2023-01-13 06:49:13 - Utils: INFO: Server executed (args omitted): /user.
+2023-01-13 06:49:29 - Utils: INFO: Server executed (args omitted): /user.
+2023-01-13 06:49:29 - Commands: INFO: Server changed account zhidomasson to group owner.
+2023-01-13 06:49:50 - Utils: INFO: zhidomasson executed: /save.
+2023-01-13 06:49:50 - Utils: INFO: Broadcast: Saving world...
+2023-01-13 06:49:52 - SaveManager: INFO: Broadcast: World saved.
+2023-01-13 06:49:52 - StartHelper: INFO: World saved at (C:\Users\Yehen\Documents\My Games\Terraria\Worlds\UEBKI.wld)
+2023-01-13 06:49:57 - Commands: INFO: zhidomasson executed: /stop.
+2023-01-13 06:49:57 - Utils: INFO: Broadcast: Saving world...
+2023-01-13 06:49:59 - SaveManager: INFO: Broadcast: World saved.
+2023-01-13 06:49:59 - StartHelper: INFO: World saved at (C:\Users\Yehen\Documents\My Games\Terraria\Worlds\UEBKI.wld)
+2023-01-13 06:49:59 - Utils: INFO: Broadcast: Server shutting down!
+2023-01-13 06:49:59 - Utils: INFO: Broadcast: Saving world...

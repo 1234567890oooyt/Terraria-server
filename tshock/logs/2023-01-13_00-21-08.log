@@ -1,0 +1,454 @@
+2023-01-13 00:21:08 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2023-01-13 00:21:09 - TShock: INFO: TShock 5.1.3.0 (Thank you, everyone, for your support of TShock all these years! <3) now running.
+2023-01-13 00:21:09 - TShock: INFO: AutoSave Enabled
+2023-01-13 00:21:09 - TShock: INFO: Backups Enabled
+2023-01-13 00:21:09 - TShock: INFO: Welcome to TShock for Terraria!
+2023-01-13 00:21:09 - TShock: INFO: TShock comes with no warranty & is free software.
+2023-01-13 00:21:09 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2023-01-13 00:22:17 - TShock: ERROR: !!! UUID login is enabled. If a user's UUID matches an account, the server password will be bypassed.
+2023-01-13 00:22:17 - TShock: ERROR: !!! > Set DisableUUIDLogin to true in the config file and /reload if this is a problem.
+2023-01-13 00:22:17 - TShock: ERROR: !!! Login before join is enabled. Existing accounts can login & the server password will be bypassed.
+2023-01-13 00:22:17 - TShock: ERROR: !!! > Set DisableLoginBeforeJoin to true in the config file and /reload if this is a problem.
+2023-01-13 00:22:17 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2023-01-13 00:22:17 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2023-01-13 00:22:17 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2023-01-13 00:24:25 - TShock: INFO: zhidomasson (5.58.144.73) from 'guest' group joined. (1/8)
+2023-01-13 00:24:25 - Utils: INFO: Broadcast: zhidomasson has joined.
+2023-01-13 00:24:29 - TShock: INFO: 1000-7 (192.162.32.95) from 'guest' group joined. (2/8)
+2023-01-13 00:24:29 - Utils: INFO: Broadcast: 1000-7 has joined.
+2023-01-13 00:25:13 - Utils: INFO: Broadcast: zhidomasson has left.
+2023-01-13 00:25:13 - TShock: INFO: zhidomasson disconnected.
+2023-01-13 00:28:35 - TShock: INFO: zhidomasson (5.58.144.73) from 'guest' group joined. (2/8)
+2023-01-13 00:28:35 - Utils: INFO: Broadcast: zhidomasson has joined.
+2023-01-13 00:30:43 - Utils: INFO: Broadcast: zhidomasson: region
+2023-01-13 00:30:49 - Utils: INFO: zhidomasson tried to execute /region.
+2023-01-13 00:31:09 - Utils: INFO: Broadcast: Saving world...
+2023-01-13 00:31:11 - Utils: INFO: Broadcast: World saved.
+2023-01-13 00:31:11 - SaveManager: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-12T22.31.08Z.bak)
+2023-01-13 00:31:11 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-12T22.31.08Z.bak).
+2023-01-13 00:32:10 - Utils: INFO: zhidomasson executed: /setup 9424003.
+2023-01-13 00:34:13 - Utils: INFO: Broadcast: Saving world...
+2023-01-13 00:36:17 - Utils: INFO: zhidomasson executed: /protectspawn.
+2023-01-13 00:36:22 - Utils: INFO: zhidomasson executed: /protectspawn.
+2023-01-13 00:36:30 - Utils: INFO: zhidomasson executed: /protectspawn.
+2023-01-13 00:39:15 - Utils: INFO: Broadcast: zhidomasson has left.
+2023-01-13 00:39:15 - TShock: INFO: zhidomasson disconnected.
+2023-01-13 00:41:09 - Utils: INFO: Broadcast: Saving world...
+2023-01-13 00:41:10 - TShock: INFO: zhidomasson (5.58.144.73) from 'guest' group joined. (2/8)
+2023-01-13 00:41:10 - Utils: INFO: Broadcast: zhidomasson has joined.
+2023-01-13 00:41:10 - Utils: INFO: Broadcast: World saved.
+2023-01-13 00:41:10 - SaveManager: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-12T22.41.09Z.bak)
+2023-01-13 00:41:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-12T22.41.09Z.bak).
+2023-01-13 00:42:00 - Utils: INFO: zhidomasson executed: /setup 9424003.
+2023-01-13 00:44:13 - Utils: INFO: Broadcast: Saving world...
+2023-01-13 00:45:32 - TShock: INFO: Ужажорik (194.28.176.47) from 'guest' group joined. (3/8)
+2023-01-13 00:45:32 - Utils: INFO: Broadcast: Ужажорik has joined.
+2023-01-13 00:47:12 - Utils: INFO: Broadcast: Ужажорik: da
+2023-01-13 00:47:49 - TShock: INFO: Broadcast: Ужажорik has left.
+2023-01-13 00:47:49 - HandlerCollection`1: INFO: Ужажорik disconnected.
+2023-01-13 00:49:45 - Commands: INFO: zhidomasson executed: /spawn.
+2023-01-13 00:49:48 - TSPlayer: INFO: Kicked Yxawopik for : 'Invalid server password.'
+2023-01-13 00:49:48 - HandlerCollection`1: INFO: Yxawopik disconnected.
+2023-01-13 00:50:06 - HandlerCollection`1: INFO: Yxawopik (194.28.176.47) from 'guest' group joined. (3/8)
+2023-01-13 00:50:06 - Utils: INFO: Broadcast: Yxawopik has joined.
+2023-01-13 00:51:09 - Utils: INFO: Broadcast: Saving world...
+2023-01-13 00:51:10 - SaveManager: INFO: Broadcast: World saved.
+2023-01-13 00:51:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-12T22.51.09Z.bak)
+2023-01-13 00:51:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-12T22.51.09Z.bak).
+2023-01-13 00:51:52 - TShock: INFO: Broadcast: zhidomasson has left.
+2023-01-13 00:51:52 - HandlerCollection`1: INFO: zhidomasson disconnected.
+2023-01-13 00:52:34 - HandlerCollection`1: INFO: zhidomasson (5.58.144.73) from 'guest' group joined. (3/8)
+2023-01-13 00:52:34 - Utils: INFO: Broadcast: zhidomasson has joined.
+2023-01-13 00:53:49 - TShock: INFO: Broadcast: zhidomasson has left.
+2023-01-13 00:53:49 - HandlerCollection`1: INFO: zhidomasson disconnected.
+2023-01-13 00:54:13 - Utils: INFO: Broadcast: Saving world...
+2023-01-13 00:54:16 - HandlerCollection`1: INFO: zhidomasson (5.58.144.73) from 'guest' group joined. (3/8)
+2023-01-13 00:54:16 - Utils: INFO: Broadcast: zhidomasson has joined.
+2023-01-13 01:00:30 - TShock: INFO: Broadcast: zhidomasson has left.
+2023-01-13 01:00:30 - HandlerCollection`1: INFO: zhidomasson disconnected.
+2023-01-13 01:00:39 - HandlerCollection`1: INFO: zhidomasson (5.58.144.73) from 'guest' group joined. (3/8)
+2023-01-13 01:00:39 - Utils: INFO: Broadcast: zhidomasson has joined.
+2023-01-13 01:01:09 - Utils: INFO: Broadcast: Saving world...
+2023-01-13 01:01:10 - SaveManager: INFO: Broadcast: World saved.
+2023-01-13 01:01:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-12T23.01.09Z.bak)
+2023-01-13 01:01:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-12T23.01.09Z.bak).
+2023-01-13 01:04:13 - Utils: INFO: Broadcast: Saving world...
+2023-01-13 01:11:09 - Utils: INFO: Broadcast: Saving world...
+2023-01-13 01:11:10 - SaveManager: INFO: Broadcast: World saved.
+2023-01-13 01:11:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-12T23.11.09Z.bak)
+2023-01-13 01:11:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-12T23.11.09Z.bak).
+2023-01-13 01:11:40 - Commands: INFO: zhidomasson tried to execute /TP .
+2023-01-13 01:12:17 - Commands: INFO: zhidomasson executed: /setup 9424003.
+2023-01-13 01:12:26 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 01:14:13 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 01:21:09 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 01:21:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 01:21:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-12T23.21.09Z.bak)
+2023-01-13 01:21:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-12T23.21.09Z.bak).
+2023-01-13 01:24:13 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 01:31:09 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 01:31:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 01:31:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-12T23.31.09Z.bak)
+2023-01-13 01:31:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-12T23.31.09Z.bak).
+2023-01-13 01:34:14 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 01:41:09 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 01:41:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 01:41:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-12T23.41.09Z.bak)
+2023-01-13 01:41:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-12T23.41.09Z.bak).
+2023-01-13 01:44:14 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 01:51:09 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 01:51:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 01:51:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-12T23.51.09Z.bak)
+2023-01-13 01:51:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-12T23.51.09Z.bak).
+2023-01-13 01:54:14 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 02:01:09 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 02:01:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 02:01:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T00.01.09Z.bak)
+2023-01-13 02:01:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T00.01.09Z.bak).
+2023-01-13 02:04:14 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 02:11:09 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 02:11:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 02:11:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T00.11.09Z.bak)
+2023-01-13 02:11:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T00.11.09Z.bak).
+2023-01-13 02:14:14 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 02:21:09 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 02:21:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 02:21:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T00.21.09Z.bak)
+2023-01-13 02:21:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T00.21.09Z.bak).
+2023-01-13 02:22:24 - <CheckForUpdatesAsync>d__4: WARNING: UpdateManager warning: System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 5 seconds elapsing.
+ ---> System.TimeoutException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at TShockAPI.UpdateManager.ServerIsOutOfDateAsync() in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 112
+   at TShockAPI.UpdateManager.UpdateCheckAsync(Object o) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 99
+   at TShockAPI.UpdateManager.CheckForUpdatesAsync(Object state) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 74
+2023-01-13 02:22:24 - <CheckForUpdatesAsync>d__4: ERROR: Retrying in 5 minutes.
+2023-01-13 02:24:14 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 02:31:09 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 02:31:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 02:31:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T00.31.09Z.bak)
+2023-01-13 02:31:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T00.31.09Z.bak).
+2023-01-13 02:34:14 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 02:39:28 - HandlerCollection`1: INFO: Broadcast: (Super Admin) zhidomasson: tp 100-7
+2023-01-13 02:39:38 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 02:40:06 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 02:40:17 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 02:41:09 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 02:41:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 02:41:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T00.41.09Z.bak)
+2023-01-13 02:41:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T00.41.09Z.bak).
+2023-01-13 02:44:14 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 02:51:09 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 02:51:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 02:51:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T00.51.09Z.bak)
+2023-01-13 02:51:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T00.51.09Z.bak).
+2023-01-13 02:54:14 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 02:58:53 - HandlerCollection`1: INFO: МАМА ОЛЕГА (5.58.144.73) from 'guest' group joined. (4/8)
+2023-01-13 02:58:53 - TShock: INFO: Broadcast: МАМА ОЛЕГА has joined.
+2023-01-13 02:59:36 - HandlerCollection`1: INFO: Broadcast: МАМА ОЛЕГА: ОЛЕГ ЇСТИ НАХУЙ !!!
+2023-01-13 03:00:05 - HandlerCollection`1: INFO: Broadcast: МАМА ОЛЕГА: мене мій Євген непобідімий жде
+2023-01-13 03:00:14 - HandlerCollection`1: INFO: Broadcast: МАМА ОЛЕГА: єбатись з ним буду
+2023-01-13 03:00:24 - HandlerCollection`1: INFO: Broadcast: МАМА ОЛЕГА: я пішла єбатись пака
+2023-01-13 03:00:29 - HandlerCollection`1: INFO: Broadcast: МАМА ОЛЕГА has left.
+2023-01-13 03:00:29 - HandlerCollection`1: INFO: МАМА ОЛЕГА disconnected.
+2023-01-13 03:01:09 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-13 03:01:11 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 03:01:11 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T01.01.09Z.bak)
+2023-01-13 03:01:11 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T01.01.09Z.bak).
+2023-01-13 03:04:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 03:11:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 03:11:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 03:11:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T01.11.09Z.bak)
+2023-01-13 03:11:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T01.11.09Z.bak).
+2023-01-13 03:11:19 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 03:14:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 03:18:59 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 03:20:24 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 03:20:35 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 03:20:58 - HandlerCollection`1: INFO: Лемур disconnected.
+2023-01-13 03:21:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 03:21:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 03:21:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T01.21.09Z.bak)
+2023-01-13 03:21:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T01.21.09Z.bak).
+2023-01-13 03:21:33 - HandlerCollection`1: INFO: Лемур (194.28.176.47) from 'guest' group joined. (4/8)
+2023-01-13 03:21:33 - TShock: INFO: Broadcast: Лемур has joined.
+2023-01-13 03:23:30 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 03:24:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 03:31:02 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 03:31:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 03:31:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 03:31:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T01.31.09Z.bak)
+2023-01-13 03:31:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T01.31.09Z.bak).
+2023-01-13 03:32:48 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 03:34:13 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 03:34:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 03:36:04 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 03:38:44 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 03:39:39 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 03:41:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 03:41:11 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 03:41:11 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T01.41.09Z.bak)
+2023-01-13 03:41:11 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T01.41.09Z.bak).
+2023-01-13 03:42:33 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 03:43:40 - HandlerCollection`1: INFO: Broadcast: Лемур has left.
+2023-01-13 03:43:40 - HandlerCollection`1: INFO: Лемур disconnected.
+2023-01-13 03:44:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 03:46:28 - HandlerCollection`1: INFO: Лемур disconnected.
+2023-01-13 03:46:55 - HandlerCollection`1: INFO: Лемур (194.28.176.47) from 'guest' group joined. (4/8)
+2023-01-13 03:46:55 - TShock: INFO: Broadcast: Лемур has joined.
+2023-01-13 03:51:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 03:51:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 03:51:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T01.51.09Z.bak)
+2023-01-13 03:51:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T01.51.09Z.bak).
+2023-01-13 03:51:30 - Commands: INFO: Server executed: /help.
+2023-01-13 03:51:43 - Commands: INFO: Server executed: /help.
+2023-01-13 03:51:49 - Commands: INFO: Server executed: /help 2.
+2023-01-13 03:52:45 - Commands: INFO: Server executed: /godmode Yxaworik.
+2023-01-13 03:52:50 - Commands: INFO: Server executed: /godmode Yxawopik.
+2023-01-13 03:54:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 03:55:48 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 03:57:51 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 03:58:07 - Commands: INFO: Server executed: /godmode Yxawopik.
+2023-01-13 03:59:51 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 04:00:34 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 04:00:59 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 04:01:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 04:01:11 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 04:01:11 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T02.01.09Z.bak)
+2023-01-13 04:01:11 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T02.01.09Z.bak).
+2023-01-13 04:02:02 - Commands: INFO: Server executed: /godmode Yxawopik.
+2023-01-13 04:02:34 - Commands: INFO: Server executed: /godmode Yxawopik.
+2023-01-13 04:02:41 - Commands: INFO: Server executed: /godmode Yxawopik.
+2023-01-13 04:02:56 - Commands: INFO: Server executed: /godmode Yxawopik.
+2023-01-13 04:04:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 04:07:54 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 04:08:36 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 04:11:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 04:11:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 04:11:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T02.11.09Z.bak)
+2023-01-13 04:11:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T02.11.09Z.bak).
+2023-01-13 04:14:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 04:21:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 04:21:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 04:21:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T02.21.09Z.bak)
+2023-01-13 04:21:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T02.21.09Z.bak).
+2023-01-13 04:24:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 04:31:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 04:31:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 04:31:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T02.31.09Z.bak)
+2023-01-13 04:31:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T02.31.09Z.bak).
+2023-01-13 04:31:46 - Commands: INFO: Server executed: /group add.
+2023-01-13 04:31:54 - Commands: INFO: Server executed: /group add all tshock.tp.toall.
+2023-01-13 04:31:58 - Commands: INFO: Server executed: /group add all tshock.tp.toall.
+2023-01-13 04:32:08 - Commands: INFO: Server executed: /group.
+2023-01-13 04:32:54 - HandlerCollection`1: INFO: Broadcast: Лемур has left.
+2023-01-13 04:32:54 - HandlerCollection`1: INFO: Лемур disconnected.
+2023-01-13 04:32:54 - HandlerCollection`1: INFO: Broadcast: Yxawopik has left.
+2023-01-13 04:32:54 - HandlerCollection`1: INFO: Yxawopik disconnected.
+2023-01-13 04:33:06 - Commands: INFO: Server executed: /group add all tshock.tp.toall/group .
+2023-01-13 04:33:19 - Commands: INFO: Server executed: /group.
+2023-01-13 04:33:34 - Commands: INFO: Server executed: /group help 2.
+2023-01-13 04:33:42 - Commands: INFO: Server executed: /group list.
+2023-01-13 04:33:55 - Commands: INFO: Server executed: /group help 2.
+2023-01-13 04:34:00 - Commands: INFO: Server executed: /group.
+2023-01-13 04:34:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 04:34:18 - Commands: INFO: Server executed: /group .
+2023-01-13 04:34:21 - Commands: INFO: Server executed: /group help 3.
+2023-01-13 04:34:31 - Commands: INFO: Server executed: /group help 2.
+2023-01-13 04:34:39 - Commands: INFO: Server executed: /group list.
+2023-01-13 04:35:39 - Commands: INFO: Server executed: /group default tshock.tp.toall/group .
+2023-01-13 04:35:47 - Commands: INFO: Server executed: /group help.
+2023-01-13 04:36:34 - Commands: INFO: Server executed: /group addperm default tshock.tp.toall.
+2023-01-13 04:37:04 - Commands: INFO: Server executed: /group addperm default tshock.tp.toall.
+2023-01-13 04:37:06 - HandlerCollection`1: INFO: Лемур (31.144.9.77) from 'guest' group joined. (3/8)
+2023-01-13 04:37:06 - TShock: INFO: Broadcast: Лемур has joined.
+2023-01-13 04:37:12 - Commands: INFO: Server executed: /group addperm default tshock.tp.toall.
+2023-01-13 04:37:40 - Commands: INFO: 1000-7 tried to execute /tp shidomoson.
+2023-01-13 04:38:02 - Commands: INFO: 1000-7 tried to execute /tp scidomason.
+2023-01-13 04:38:20 - Commands: INFO: zhidomasson executed: /tp .
+2023-01-13 04:38:22 - HandlerCollection`1: INFO: Broadcast: (Super Admin) zhidomasson: D
+2023-01-13 04:38:43 - Commands: INFO: 1000-7 tried to execute /tp zhidomasson.
+2023-01-13 04:39:03 - Commands: INFO: 1000-7 tried to execute /tp zhi domasson.
+2023-01-13 04:39:15 - Commands: INFO: Server executed: /group help.
+2023-01-13 04:39:17 - Commands: INFO: Server executed: /group list.
+2023-01-13 04:39:52 - Commands: INFO: Server executed: /group addperm guest toall.
+2023-01-13 04:40:01 - Commands: INFO: Server executed: /group addperm guest tshock.tp.toall.
+2023-01-13 04:40:12 - HandlerCollection`1: INFO: Yxawopik disconnected.
+2023-01-13 04:40:14 - Commands: INFO: 1000-7 tried to execute /tp zhidomasson.
+2023-01-13 04:41:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 04:41:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 04:41:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T02.41.09Z.bak)
+2023-01-13 04:41:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T02.41.09Z.bak).
+2023-01-13 04:41:13 - Commands: INFO: Server executed: /group addperm guest tshock.tp.toall/group.
+2023-01-13 04:41:17 - Commands: INFO: Server executed: /group addperm guest tshock.tp.toall/group.
+2023-01-13 04:41:22 - Commands: INFO: Server executed: /group.
+2023-01-13 04:41:33 - Commands: INFO: Server executed: /group help 2.
+2023-01-13 04:41:41 - Commands: INFO: Server executed: /group help 3.
+2023-01-13 04:41:45 - HandlerCollection`1: INFO: Yxawopik (194.28.176.47) from 'guest' group joined. (4/8)
+2023-01-13 04:41:45 - TShock: INFO: Broadcast: Yxawopik has joined.
+2023-01-13 04:41:50 - Commands: INFO: Server executed: /group help 4.
+2023-01-13 04:41:57 - Commands: INFO: Server executed: /group.
+2023-01-13 04:43:32 - Commands: INFO: Server executed: /group addperm tshock.tp.toall/group.
+2023-01-13 04:44:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 04:45:35 - Commands: INFO: Server executed (args omitted): /user.
+2023-01-13 04:45:40 - Commands: INFO: Server executed (args omitted): /user.
+2023-01-13 04:47:06 - Commands: INFO: Server executed: /group addperm default tshock.tp.self .
+2023-01-13 04:47:17 - Commands: INFO: Server executed: /group addperm default tshock.tp.self .
+2023-01-13 04:47:19 - Commands: INFO: Server executed: /group addperm default tshock.tp.self .
+2023-01-13 04:47:30 - Commands: INFO: Server executed: /group addperm default tshock.tp.
+2023-01-13 04:47:38 - Commands: INFO: Server executed: /group addperm default tshock.tp.*.
+2023-01-13 04:48:04 - HandlerCollection`1: INFO: Broadcast: (Super Admin) zhidomasson:  /group addperm default tshock.tp.*
+2023-01-13 04:48:17 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 04:48:33 - Commands: INFO: 1000-7 tried to execute /tp zhi domasson.
+2023-01-13 04:48:50 - Commands: INFO: Server executed: /group addperm @ tshock.tp.*.
+2023-01-13 04:48:56 - Commands: INFO: Server executed: /group addperm all tshock.tp.*.
+2023-01-13 04:49:13 - Commands: INFO: Server executed: /group addperm @ tshock.tp.self .
+2023-01-13 04:49:20 - Commands: INFO: Server executed: /group addperm all tshock.tp.self .
+2023-01-13 04:50:55 - Commands: INFO: Server executed (args omitted): /user.
+2023-01-13 04:51:06 - Commands: INFO: Server executed (args omitted): /user.
+2023-01-13 04:51:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 04:51:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 04:51:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T02.51.09Z.bak)
+2023-01-13 04:51:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T02.51.09Z.bak).
+2023-01-13 04:51:16 - Commands: INFO: Server executed (args omitted): /user.
+2023-01-13 04:51:32 - Commands: INFO: Server executed (args omitted): /user.
+2023-01-13 04:51:37 - Commands: INFO: Server executed (args omitted): /user.
+2023-01-13 04:51:40 - Commands: INFO: Server executed (args omitted): /user.
+2023-01-13 04:51:50 - Commands: INFO: Server executed (args omitted): /user.
+2023-01-13 04:51:57 - Commands: INFO: Server executed (args omitted): /user.
+2023-01-13 04:54:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 04:58:34 - HandlerCollection`1: INFO: Broadcast: (Super Admin) zhidomasson: setup 9424003
+2023-01-13 04:58:39 - HandlerCollection`1: INFO: Broadcast: Лемур: setup/9424003
+2023-01-13 04:59:01 - Commands: INFO: 1000-7 executed: /setup 9424003.
+2023-01-13 04:59:02 - Commands: INFO: Лемур executed: /setup 9424003.
+2023-01-13 04:59:16 - Commands: INFO: zhidomasson executed: /tp 100-7.
+2023-01-13 04:59:27 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 05:01:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 05:01:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 05:01:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T03.01.09Z.bak)
+2023-01-13 05:01:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T03.01.09Z.bak).
+2023-01-13 05:01:11 - Commands: INFO: Server executed (args omitted): /user.
+2023-01-13 05:03:15 - HandlerCollection`1: INFO: Broadcast: Лемур has left.
+2023-01-13 05:03:15 - HandlerCollection`1: INFO: Лемур disconnected.
+2023-01-13 05:03:45 - HandlerCollection`1: INFO: Лемур (31.144.9.77) from 'guest' group joined. (4/8)
+2023-01-13 05:03:45 - TShock: INFO: Broadcast: Лемур has joined.
+2023-01-13 05:04:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 05:05:14 - HandlerCollection`1: INFO: Broadcast: 1000-7 has left.
+2023-01-13 05:05:14 - HandlerCollection`1: INFO: 1000-7 disconnected.
+2023-01-13 05:05:56 - HandlerCollection`1: INFO: 1000-7 (192.162.32.95) from 'guest' group joined. (4/8)
+2023-01-13 05:05:56 - TShock: INFO: Broadcast: 1000-7 has joined.
+2023-01-13 05:11:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 05:11:11 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 05:11:11 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T03.11.09Z.bak)
+2023-01-13 05:11:11 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T03.11.09Z.bak).
+2023-01-13 05:11:23 - Commands: INFO: Yxawopik tried to execute /tp 1000-7.
+2023-01-13 05:12:08 - HandlerCollection`1: INFO: Broadcast: (Super Admin) zhidomasson: setup 9424003
+2023-01-13 05:12:31 - Commands: INFO: Yxawopik executed: /setup 9424003.
+2023-01-13 05:12:52 - Commands: INFO: Yxawopik executed: /tp 1000-7.
+2023-01-13 05:13:41 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 05:14:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 05:14:28 - Commands: INFO: zhidomasson executed: /spawn.
+2023-01-13 05:14:57 - Commands: INFO: Yxawopik executed: /tp 1000-7.
+2023-01-13 05:15:40 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 05:16:08 - TSPlayer: INFO: Kicked 1000-7 for : 'You logged in from the same IP.'
+2023-01-13 05:16:08 - HandlerCollection`1: INFO: 1000-7 disconnected.
+2023-01-13 05:16:13 - HandlerCollection`1: INFO: 1000-7 (192.162.32.95) from 'guest' group joined. (4/8)
+2023-01-13 05:16:13 - TShock: INFO: Broadcast: 1000-7 has joined.
+2023-01-13 05:19:20 - Commands: INFO: 1000-7 tried to execute /tp zhi domasson.
+2023-01-13 05:19:41 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 05:21:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 05:21:11 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 05:21:11 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T03.21.09Z.bak)
+2023-01-13 05:21:11 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T03.21.09Z.bak).
+2023-01-13 05:24:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 05:31:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 05:31:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 05:31:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T03.31.09Z.bak)
+2023-01-13 05:31:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T03.31.09Z.bak).
+2023-01-13 05:31:25 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 05:34:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 05:40:18 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 05:41:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 05:41:11 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 05:41:11 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T03.41.09Z.bak)
+2023-01-13 05:41:11 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T03.41.09Z.bak).
+2023-01-13 05:43:41 - GetDataHandlers: INFO: zhidomasson summoned the Eye of Cthulhu!
+2023-01-13 05:44:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 05:45:26 - HandlerCollection`1: INFO: Broadcast: Лемур has left.
+2023-01-13 05:45:26 - HandlerCollection`1: INFO: Лемур disconnected.
+2023-01-13 05:45:59 - HandlerCollection`1: INFO: Лемур (31.144.9.77) from 'guest' group joined. (4/8)
+2023-01-13 05:45:59 - TShock: INFO: Broadcast: Лемур has joined.
+2023-01-13 05:46:41 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-13 05:47:40 - Commands: INFO: Server executed: /time.
+2023-01-13 05:51:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 05:51:11 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 05:51:11 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T03.51.09Z.bak)
+2023-01-13 05:51:11 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T03.51.09Z.bak).
+2023-01-13 05:52:11 - TSPlayer: INFO: Kicked 1000-7 for : 'You logged in from the same IP.'
+2023-01-13 05:52:11 - HandlerCollection`1: INFO: 1000-7 disconnected.
+2023-01-13 05:52:18 - HandlerCollection`1: INFO: 1000-7 (192.162.32.95) from 'guest' group joined. (4/8)
+2023-01-13 05:52:18 - TShock: INFO: Broadcast: 1000-7 has joined.
+2023-01-13 05:53:45 - HandlerCollection`1: INFO: Broadcast: Лемур has left.
+2023-01-13 05:53:45 - HandlerCollection`1: INFO: Лемур disconnected.
+2023-01-13 05:54:08 - HandlerCollection`1: INFO: Лемур (31.144.9.77) from 'guest' group joined. (4/8)
+2023-01-13 05:54:08 - TShock: INFO: Broadcast: Лемур has joined.
+2023-01-13 05:54:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 05:57:26 - HandlerCollection`1: INFO: Broadcast: Лемур has left.
+2023-01-13 05:57:26 - HandlerCollection`1: INFO: Лемур disconnected.
+2023-01-13 05:57:54 - HandlerCollection`1: INFO: Лемур (194.28.176.47) from 'guest' group joined. (4/8)
+2023-01-13 05:57:54 - TShock: INFO: Broadcast: Лемур has joined.
+2023-01-13 06:01:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 06:01:11 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 06:01:11 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T04.01.09Z.bak)
+2023-01-13 06:01:11 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T04.01.09Z.bak).
+2023-01-13 06:01:51 - GetDataHandlers: INFO: zhidomasson summoned the Eye of Cthulhu!
+2023-01-13 06:04:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 06:06:57 - Commands: INFO: Server executed: /time 00:00.
+2023-01-13 06:07:06 - Commands: INFO: Server executed: /time 21:00.
+2023-01-13 06:08:15 - Commands: INFO: Server executed: /time 21:00.
+2023-01-13 06:08:24 - GetDataHandlers: INFO: zhidomasson summoned the Eye of Cthulhu!
+2023-01-13 06:11:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 06:11:11 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 06:11:11 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T04.11.09Z.bak)
+2023-01-13 06:11:11 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T04.11.09Z.bak).
+2023-01-13 06:14:14 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 06:16:48 - GetDataHandlers: INFO: zhidomasson summoned the King Slime!
+2023-01-13 06:20:48 - TSPlayer: INFO: Kicked 1000-7 for : 'You logged in from the same IP.'
+2023-01-13 06:20:48 - HandlerCollection`1: INFO: 1000-7 disconnected.
+2023-01-13 06:20:52 - HandlerCollection`1: INFO: 1000-7 (192.162.32.95) from 'guest' group joined. (4/8)
+2023-01-13 06:20:52 - TShock: INFO: Broadcast: 1000-7 has joined.
+2023-01-13 06:21:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 06:21:10 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 06:21:10 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-13T04.21.09Z.bak)
+2023-01-13 06:21:10 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-13T04.21.09Z.bak).
+2023-01-13 06:22:42 - Commands: INFO: Server executed: /save.
+2023-01-13 06:22:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 06:22:43 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 06:22:43 - StartHelper: INFO: World saved at (C:\Users\Yehen\Documents\My Games\Terraria\Worlds\UEBKI.wld)
+2023-01-13 06:22:58 - Commands: INFO: Server executed: /save.
+2023-01-13 06:22:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 06:22:59 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 06:22:59 - StartHelper: INFO: World saved at (C:\Users\Yehen\Documents\My Games\Terraria\Worlds\UEBKI.wld)
+2023-01-13 06:23:07 - Commands: INFO: Server executed: /stop.
+2023-01-13 06:23:07 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-01-13 06:23:08 - StartHelper: INFO: Broadcast: World saved.
+2023-01-13 06:23:08 - StartHelper: INFO: World saved at (C:\Users\Yehen\Documents\My Games\Terraria\Worlds\UEBKI.wld)
+2023-01-13 06:23:08 - Command: INFO: Broadcast: Server shutting down!
+2023-01-13 06:23:08 - HandlerCollection`1: INFO: Broadcast: Saving world...

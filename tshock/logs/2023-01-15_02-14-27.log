@@ -1,0 +1,129 @@
+2023-01-15 02:14:28 - TShock: INFO: TShock 5.1.3.0 (Thank you, everyone, for your support of TShock all these years! <3) now running.
+2023-01-15 02:14:28 - TShock: INFO: AutoSave Enabled
+2023-01-15 02:14:28 - TShock: INFO: Backups Enabled
+2023-01-15 02:14:28 - TShock: INFO: Welcome to TShock for Terraria!
+2023-01-15 02:14:28 - TShock: INFO: TShock comes with no warranty & is free software.
+2023-01-15 02:14:28 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2023-01-15 02:14:56 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2023-01-15 02:14:56 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2023-01-15 02:14:56 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2023-01-15 02:15:00 - GetDataHandlers: INFO: Лемур authenticated successfully as user Лемур.
+2023-01-15 02:15:02 - TShock: INFO: Лемур (194.28.176.47) from 'default' group joined. (1/8)
+2023-01-15 02:15:02 - Utils: INFO: Broadcast: Лемур has joined.
+2023-01-15 02:16:57 - GetDataHandlers: INFO: zhidomasson authenticated successfully as user zhidomasson.
+2023-01-15 02:16:58 - TShock: INFO: zhidomasson (5.58.144.73) from 'owner' group joined. (2/8)
+2023-01-15 02:16:58 - Utils: INFO: Broadcast: zhidomasson has joined.
+2023-01-15 02:17:47 - GetDataHandlers: INFO: 1000-7 authenticated successfully as user 1000-7.
+2023-01-15 02:17:48 - TShock: INFO: 1000-7 (192.162.32.207) from 'default' group joined. (3/8)
+2023-01-15 02:17:48 - Utils: INFO: Broadcast: 1000-7 has joined.
+2023-01-15 02:17:50 - Utils: INFO: Лемур executed: /tp zhidomasson.
+2023-01-15 02:18:01 - Utils: INFO: 1000-7 executed: /tp zhidomasson.
+2023-01-15 02:21:47 - Utils: INFO: zhidomasson summoned the Queen Bee!
+2023-01-15 02:23:37 - Utils: INFO: Broadcast: Лемур has left.
+2023-01-15 02:23:37 - TShock: INFO: Лемур disconnected.
+2023-01-15 02:23:41 - GetDataHandlers: INFO: Лемур authenticated successfully as user Лемур.
+2023-01-15 02:23:47 - TShock: INFO: Лемур (194.28.176.47) from 'default' group joined. (3/8)
+2023-01-15 02:23:47 - Utils: INFO: Broadcast: Лемур has joined.
+2023-01-15 02:24:02 - Utils: INFO: Лемур executed: /tp 1000-7.
+2023-01-15 02:24:27 - Utils: INFO: Broadcast: Saving world...
+2023-01-15 02:24:29 - Utils: INFO: Broadcast: World saved.
+2023-01-15 02:24:29 - SaveManager: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-15T00.24.27Z.bak)
+2023-01-15 02:24:29 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-15T00.24.27Z.bak).
+2023-01-15 02:25:00 - Utils: INFO: Broadcast: Saving world...
+2023-01-15 02:25:22 - Utils: INFO: Лемур executed: /tp 1000-7.
+2023-01-15 02:26:53 - Utils: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-15 02:27:35 - Utils: INFO: Broadcast: Лемур has left.
+2023-01-15 02:27:35 - TShock: INFO: Лемур disconnected.
+2023-01-15 02:27:46 - GetDataHandlers: INFO: Лемур authenticated successfully as user Лемур.
+2023-01-15 02:27:54 - TShock: INFO: Лемур (194.28.176.47) from 'default' group joined. (3/8)
+2023-01-15 02:27:54 - Utils: INFO: Broadcast: Лемур has joined.
+2023-01-15 02:28:04 - Utils: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-15 02:28:32 - Utils: INFO: Лемур executed: /tp zhidomasson.
+2023-01-15 02:28:48 - Utils: INFO: 1000-7 executed: /tp zhidomasson.
+2023-01-15 02:30:13 - Utils: INFO: 1000-7 executed: /tp zhidomasson.
+2023-01-15 02:30:19 - Utils: INFO: Server executed: /save.
+2023-01-15 02:30:19 - Utils: INFO: Broadcast: Saving world...
+2023-01-15 02:30:20 - Utils: INFO: Broadcast: World saved.
+2023-01-15 02:30:20 - SaveManager: INFO: World saved at (C:\Users\Yehen\Documents\My Games\Terraria\Worlds\UEBKI.wld)
+2023-01-15 02:30:30 - Commands: INFO: 1000-7 executed: /tp zhidomasson.
+2023-01-15 02:32:14 - Commands: INFO: 1000-7 executed: /tp zhidomasson.
+2023-01-15 02:33:02 - Commands: INFO: Лемур executed: /tp 1000-7.
+2023-01-15 02:34:27 - Utils: INFO: Broadcast: Saving world...
+2023-01-15 02:34:29 - SaveManager: INFO: Broadcast: World saved.
+2023-01-15 02:34:29 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-15T00.34.27Z.bak)
+2023-01-15 02:34:29 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-15T00.34.27Z.bak).
+2023-01-15 02:35:00 - Utils: INFO: Broadcast: Saving world...
+2023-01-15 02:41:47 - Commands: INFO: 1000-7 executed: /tp zhidomasson.
+2023-01-15 02:43:47 - Commands: INFO: 1000-7 executed: /tp zhidomasson.
+2023-01-15 02:43:54 - Commands: INFO: 1000-7 executed: /tp Лемур.
+2023-01-15 02:44:27 - Utils: INFO: Broadcast: Saving world...
+2023-01-15 02:44:29 - SaveManager: INFO: Broadcast: World saved.
+2023-01-15 02:44:29 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-15T00.44.27Z.bak)
+2023-01-15 02:44:29 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-15T00.44.27Z.bak).
+2023-01-15 02:45:00 - Utils: INFO: Broadcast: Saving world...
+2023-01-15 02:45:50 - Commands: INFO: Лемур executed: /tp 1000-7.
+2023-01-15 02:46:46 - Commands: INFO: zhidomasson executed: /time 21:00.
+2023-01-15 02:48:11 - TSPlayer: INFO: Player Лемур has been disabled for Reached projectile create threshold..
+2023-01-15 02:48:11 - Commands: INFO: Лемур executed: /tp 1000-7.
+2023-01-15 02:49:07 - Commands: INFO: Лемур executed: /tp 1000-7.
+2023-01-15 02:49:20 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-15 02:49:33 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-15 02:49:40 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-15 02:50:06 - Commands: INFO: Лемур executed: /tp 1000-7.
+2023-01-15 02:50:59 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-15 02:51:04 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-15 02:51:05 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-15 02:51:07 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-15 02:51:09 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-15 02:51:20 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-15 02:51:33 - TSPlayer: INFO: Player Лемур has been disabled for Reached projectile create threshold..
+2023-01-15 02:51:53 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-15 02:52:00 - TSPlayer: INFO: Player Лемур has been disabled for Reached projectile create threshold..
+2023-01-15 02:52:58 - TShock: INFO: Broadcast: zhidomasson: m
+2023-01-15 02:54:27 - Utils: INFO: Broadcast: Saving world...
+2023-01-15 02:54:29 - SaveManager: INFO: Broadcast: World saved.
+2023-01-15 02:54:29 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-15T00.54.27Z.bak)
+2023-01-15 02:54:29 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-15T00.54.27Z.bak).
+2023-01-15 02:55:00 - Utils: INFO: Broadcast: Saving world...
+2023-01-15 02:55:25 - Commands: INFO: 1000-7 executed: /tp zhidomasson.
+2023-01-15 02:57:02 - Commands: INFO: zhidomasson executed: /time 21:00.
+2023-01-15 02:57:06 - TShock: INFO: Broadcast: Лемур has left.
+2023-01-15 02:57:06 - HandlerCollection`1: INFO: Лемур disconnected.
+2023-01-15 02:57:14 - GetDataHandlers: INFO: Лемур authenticated successfully as user Лемур.
+2023-01-15 02:57:16 - HandlerCollection`1: INFO: Лемур (194.28.176.47) from 'default' group joined. (3/8)
+2023-01-15 02:57:16 - Utils: INFO: Broadcast: Лемур has joined.
+2023-01-15 02:57:54 - Commands: INFO: Лемур executed: /tp 1000-7.
+2023-01-15 02:58:16 - Commands: INFO: zhidomasson executed: /TIME 21:00.
+2023-01-15 02:59:10 - TSPlayer: INFO: Player 1000-7 has been disabled for Reached projectile create threshold..
+2023-01-15 02:59:13 - TSPlayer: INFO: Player Лемур has been disabled for Reached projectile create threshold..
+2023-01-15 02:59:30 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-15 02:59:34 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-15 02:59:39 - Commands: INFO: Лемур executed: /tp 1000-7.
+2023-01-15 02:59:39 - Commands: INFO: zhidomasson executed: /tp 1000-7.
+2023-01-15 02:59:50 - TSPlayer: INFO: Player 1000-7 has been disabled for Reached projectile create threshold..
+2023-01-15 03:00:50 - TSPlayer: INFO: Player 1000-7 has been disabled for Reached projectile create threshold..
+2023-01-15 03:01:38 - TShock: INFO: Broadcast: Лемур has left.
+2023-01-15 03:01:38 - HandlerCollection`1: INFO: Лемур disconnected.
+2023-01-15 03:01:42 - GetDataHandlers: INFO: Лемур authenticated successfully as user Лемур.
+2023-01-15 03:01:45 - HandlerCollection`1: INFO: Лемур (194.28.176.47) from 'default' group joined. (3/8)
+2023-01-15 03:01:45 - Utils: INFO: Broadcast: Лемур has joined.
+2023-01-15 03:02:03 - Commands: INFO: Лемур executed: /tp 1000-7.
+2023-01-15 03:03:27 - Commands: INFO: zhidomasson executed: /time 21:00\.
+2023-01-15 03:03:36 - Commands: INFO: zhidomasson executed: /time 21:00.
+2023-01-15 03:04:02 - TShock: INFO: Broadcast: 1000-7 has left.
+2023-01-15 03:04:02 - HandlerCollection`1: INFO: 1000-7 disconnected.
+2023-01-15 03:04:27 - Utils: INFO: Broadcast: Saving world...
+2023-01-15 03:04:30 - SaveManager: INFO: Broadcast: World saved.
+2023-01-15 03:04:30 - StartHelper: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-15T01.04.27Z.bak)
+2023-01-15 03:04:30 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-15T01.04.27Z.bak).
+2023-01-15 03:04:38 - TShock: INFO: Broadcast: Лемур has left.
+2023-01-15 03:04:38 - HandlerCollection`1: INFO: Лемур disconnected.
+2023-01-15 03:04:38 - TShock: INFO: Broadcast: zhidomasson has left.
+2023-01-15 03:04:38 - HandlerCollection`1: INFO: zhidomasson disconnected.
+2023-01-15 03:04:38 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-15 03:04:40 - StartHelper: INFO: Broadcast: World saved.
+2023-01-15 03:04:40 - StartHelper: INFO: World saved at (C:\Users\Yehen\Documents\My Games\Terraria\Worlds\UEBKI.wld)
+2023-01-15 03:04:47 - Commands: INFO: Server executed: /save.
+2023-01-15 03:04:47 - SaveManager: INFO: Broadcast: Saving world...
+2023-01-15 03:04:49 - StartHelper: INFO: Broadcast: World saved.
+2023-01-15 03:04:49 - StartHelper: INFO: World saved at (C:\Users\Yehen\Documents\My Games\Terraria\Worlds\UEBKI.wld)

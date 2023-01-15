@@ -1,0 +1,54 @@
+2023-01-11 02:45:27 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2023-01-11 02:45:27 - TShock: INFO: TShock 5.1.3.0 (Thank you, everyone, for your support of TShock all these years! <3) now running.
+2023-01-11 02:45:27 - TShock: INFO: AutoSave Enabled
+2023-01-11 02:45:27 - TShock: INFO: Backups Enabled
+2023-01-11 02:45:27 - TShock: INFO: Welcome to TShock for Terraria!
+2023-01-11 02:45:27 - TShock: INFO: TShock comes with no warranty & is free software.
+2023-01-11 02:45:27 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2023-01-11 02:46:28 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2023-01-11 02:46:28 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2023-01-11 02:46:28 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2023-01-11 02:47:47 - TShock: INFO: zhidomasson (5.58.144.73) from 'guest' group joined. (1/8)
+2023-01-11 02:47:47 - Utils: INFO: Broadcast: zhidomasson has joined.
+2023-01-11 02:50:02 - Utils: INFO: zhidomasson executed: /setup 9424003.
+2023-01-11 02:51:29 - Utils: INFO: Broadcast: zhidomasson has left.
+2023-01-11 02:51:29 - TShock: INFO: zhidomasson disconnected.
+2023-01-11 02:51:29 - Utils: INFO: Broadcast: Saving world...
+2023-01-11 02:51:31 - Utils: INFO: Broadcast: World saved.
+2023-01-11 02:51:31 - SaveManager: INFO: World saved at (C:\Users\Yehen\Documents\My Games\Terraria\Worlds\UEBKI.wld)
+2023-01-11 03:07:37 - Utils: INFO: Broadcast: Saving world...
+2023-01-11 03:07:38 - TShock: INFO: ShidoMoson (192.162.32.101) from 'guest' group joined. (1/8)
+2023-01-11 03:07:38 - Utils: INFO: Broadcast: ShidoMoson has joined.
+2023-01-11 03:07:38 - Utils: INFO: Broadcast: World saved.
+2023-01-11 03:07:38 - SaveManager: INFO: World saved at (tshock\backups\UEBKI.wld.2023-01-11T01.07.37Z.bak)
+2023-01-11 03:07:38 - BackupManager: INFO: World backed up (tshock\backups\UEBKI.wld.2023-01-11T01.07.37Z.bak).
+2023-01-11 03:08:31 - Utils: INFO: Server executed: /kill ShidoMoson.
+2023-01-11 03:08:44 - Utils: INFO: Server executed: /kill ShidoMoson.
+2023-01-11 03:08:46 - Utils: INFO: Server executed: /kill ShidoMoson.
+2023-01-11 03:08:47 - Utils: INFO: Server executed: /kill ShidoMoson.
+2023-01-11 03:08:48 - Utils: INFO: Server executed: /kill ShidoMoson.
+2023-01-11 03:08:48 - Utils: INFO: Server executed: /kill ShidoMoson.
+2023-01-11 03:08:49 - Utils: INFO: Server executed: /kill ShidoMoson.
+2023-01-11 03:08:50 - Utils: INFO: Server executed: /kill ShidoMoson.
+2023-01-11 03:08:50 - Utils: INFO: Server executed: /kill ShidoMoson.
+2023-01-11 03:09:00 - TShock: INFO: zhidomasson (5.58.144.73) from 'guest' group joined. (2/8)
+2023-01-11 03:09:00 - Utils: INFO: Broadcast: zhidomasson has joined.
+2023-01-11 03:09:22 - Utils: INFO: Broadcast: zhidomasson: kill ShidoMoson
+2023-01-11 03:10:52 - Utils: INFO: Broadcast: zhidomasson: setup 9424003
+2023-01-11 03:11:08 - Utils: INFO: zhidomasson executed: /setup 9424003.
+2023-01-11 03:11:17 - Utils: INFO: zhidomasson executed: /godmode.
+2023-01-11 03:11:43 - Utils: INFO: zhidomasson executed: /kill ShidoMoson.
+2023-01-11 03:12:03 - Utils: INFO: zhidomasson executed: /godmode.
+2023-01-11 03:12:10 - Utils: INFO: Broadcast: zhidomasson has left.
+2023-01-11 03:12:10 - HandlerCollection`1: INFO: zhidomasson disconnected.
+2023-01-11 03:13:11 - Commands: INFO: Server executed: /stop.
+2023-01-11 03:13:11 - Utils: INFO: Broadcast: Saving world...
+2023-01-11 03:13:11 - TShock: INFO: Broadcast: ShidoMoson has left.
+2023-01-11 03:13:11 - HandlerCollection`1: INFO: ShidoMoson disconnected.
+2023-01-11 03:13:13 - SaveManager: INFO: Broadcast: World saved.
+2023-01-11 03:13:13 - StartHelper: INFO: World saved at (C:\Users\Yehen\Documents\My Games\Terraria\Worlds\UEBKI.wld)
+2023-01-11 03:13:13 - Utils: INFO: Broadcast: Saving world...
+2023-01-11 03:13:15 - SaveManager: INFO: Broadcast: World saved.
+2023-01-11 03:13:15 - StartHelper: INFO: World saved at (C:\Users\Yehen\Documents\My Games\Terraria\Worlds\UEBKI.wld)
+2023-01-11 03:13:15 - Utils: INFO: Broadcast: Server shutting down!
+2023-01-11 03:13:15 - Utils: INFO: Broadcast: Saving world...
